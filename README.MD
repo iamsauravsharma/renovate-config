@@ -2,6 +2,7 @@
 Common Renovate config to be used for all iamsauravsharma hosted repo which are supported by renovatebot.
 
 **Status:**
+
 | Travis Build Status |
 |:---:|
 | [![Travis Build Status][build_badge]][build_link] |
