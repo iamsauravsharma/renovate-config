@@ -1,6 +1,6 @@
 {
     "name": "@iamsauravsharma/renovate-config",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Renovate config for iamsauravsharma github profile",
     "keywords": [
         "renovate",
@@ -38,7 +38,6 @@
                 ":autodetectPinVersions",
                 ":gitSignOff",
                 ":label(dependencies)",
-                ":reviewer(iamsauravsharma)",
                 "group:allNonMajor",
                 "group:monorepos",
                 "group:recommended",
