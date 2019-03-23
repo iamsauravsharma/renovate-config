@@ -3,7 +3,7 @@ Common Renovate config to be used for all iamsauravsharma hosted repo which are 
 
 **Status:**
 | Travis Build Status |
-| :---: |
+|:---:|
 | [![Travis Build Status][build_badge]][build_link] |
 
 **Project Info:**
@@ -61,7 +61,7 @@ Use of above config symbolize for renovate as use of https://github.com/iamsaura
 [build_badge]: https://img.shields.io/travis/com/iamsauravsharma/renovate-config.svg?logo=travis
 [build_link]: https://travis-ci.com/iamsauravsharma/renovate-config
 
-[license_badge]: https://img.shields.io/github/license/iamsauravsharma/renocate-config.svg
+[license_badge]: https://img.shields.io/github/license/iamsauravsharma/renovate-config.svg
 [license_link]: LICENSE
 
 [npm_badge]: https://img.shields.io/npm/v/@iamsauravsharma/renovate-config.svg?logo=npm
