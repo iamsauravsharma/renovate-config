@@ -1,0 +1,49 @@
+{
+    "name": "@iamsauravsharma/renovate-config",
+    "version": "0.1.0",
+    "description": "Renovate config for iamsauravsharma github profile",
+    "keywords": [
+        "renovate",
+        "config",
+        "renovate-config",
+        "renovate-preset"
+    ],
+    "homepage": "https://github.com/iamsauravsharma/renovate-config",
+    "bugs": {
+        "url": "https://github.com/iamsauravsharma/renovate-config/issues"
+    },
+    "license": "MIT",
+    "author": "Saurav Sharma <apppdroiddeveloper@gmail.com> (https://github.com/iamsauravsharma)",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iamsauravsharma/renovate-config.git"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "renovate-config": {
+        "default": {
+            "extends": [
+                ":enableRenovate",
+                ":separateMajorReleases",
+                ":combinePatchMinorReleases",
+                ":renovatePrefix",
+                ":semanticPrefixFixDepsChoreOthers",
+                ":rebaseStalePrs",
+                ":prImmediately",
+                ":disableRateLimiting",
+                ":automergeDisabled",
+                ":ignoreUnstable",
+                ":updateNotScheduled",
+                ":autodetectPinVersions",
+                ":gitSignOff",
+                ":label(dependencies)",
+                ":reviewer(iamsauravsharma)",
+                "group:allNonMajor",
+                "group:monorepos",
+                "group:recommended",
+                "schedule:weekends"
+            ]
+        }
+    }
+}
