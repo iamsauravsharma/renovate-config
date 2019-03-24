@@ -66,4 +66,4 @@ Use of above config symbolize for renovate as use of https://github.com/iamsaura
 [license_link]: LICENSE
 
 [npm_badge]: https://img.shields.io/npm/v/@iamsauravsharma/renovate-config.svg?logo=npm
-[npm_link]: https://www.npmjs.com/package/@siamsauravsharma/renovate-config
+[npm_link]: https://www.npmjs.com/package/@iamsauravsharma/renovate-config
