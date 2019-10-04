@@ -29,7 +29,7 @@
                 ":combinePatchMinorReleases",
                 ":renovatePrefix",
                 ":semanticCommits",
-                ":semanticPrefixFixDepsChoreOthers",
+                ":semanticPrefixChore",
                 ":rebaseStalePrs",
                 ":prImmediately",
                 ":disableRateLimiting",
